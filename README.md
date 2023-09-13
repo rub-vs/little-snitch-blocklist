@@ -34,7 +34,7 @@ This blocklist is an optional supplementary filter list that completely removes 
 3. Click the `+` button
 4. Paste the URL from below:
 ```
-https://raw.githubusercontent.com/fabston/little-snitch-blocklist/main/blocklist.txt
+https://raw.githubusercontent.com/rub-vs/little-snitch-blocklist/main/blocklist.txt
 ```
 5. Press `Subscribe...`
 6. Change `update` to daily
