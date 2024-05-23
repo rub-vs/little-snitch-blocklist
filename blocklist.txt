@@ -115033,7 +115033,7 @@
         "www.100-flannelman.com",
         "www.1120.com.tw",
         "www.123-tracker.com",
-        "www.123count.com",
+        "*.123count.com",
         "www.123counter.superstats.com",
         "www.123stat.com",
         "www.143nchrtl3.com",
