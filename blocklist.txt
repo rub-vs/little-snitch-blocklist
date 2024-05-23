@@ -6,10 +6,10 @@
         "0.0.0.0.creative.hpyrdr.com",
         "0.0.0.0.hpyrdr.com",
         "0.code.cotsta.ru",
-        "*.ru"
-        "*.cn"
-        "*.hk"
-        "*.mo"
+        "*.ru",
+        "*.cn",
+        "*.hk",
+        "*.mo",
         "*.tw",
         "0.nextyourcontent.com",
         "0001.best",
